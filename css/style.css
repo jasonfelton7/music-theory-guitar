@@ -5,6 +5,7 @@ body {
     display: flex; /* had this commented out before. Not sure why - should help with sticky footer */
     flex-direction: column;
     min-height: 100vh;
+    
 }
 
 .container h2 {
@@ -21,6 +22,12 @@ header {
 
 navbar-dark {
     background-color: olivedrab;
+}
+
+.angled-guitar-logo {
+    margin-left: 2%;
+    margin-top: -2.5%;
+    float: left;
 }
 
 .center-heading {
@@ -42,6 +49,16 @@ navbar-dark {
     padding-top: 1%;
 }
 
+#fretboard-knowledge h2 {
+    background-color: black;
+    color: white;
+}
+
+#fretboard-knowledge h3 {
+    margin-top: 3%;
+
+}
+
 #fretboard-knowledge img {
 
     margin-bottom: 3%;
@@ -51,7 +68,6 @@ navbar-dark {
 }
 
 #main-content {
-
     text-align: center;
     width: 69%;
     background-color: #D7B49E;
@@ -71,10 +87,6 @@ navbar-dark {
 
 figcaption {
     text-align: center;
-}
-
-.right-image {
-    margin-left: 1%;
 }
 
 main {
