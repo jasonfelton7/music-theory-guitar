@@ -25,8 +25,8 @@ navbar-dark {
 }
 
 .angled-guitar-logo {
-    margin-left: 2%;
-    margin-top: -2.5%;
+    margin-left: 5%;
+    margin-top: -1.5%;
     float: left;
 }
 
@@ -115,5 +115,6 @@ footer {
         margin-bottom: 1%;
         padding: 1% 30px;
     }
+
 
 }
