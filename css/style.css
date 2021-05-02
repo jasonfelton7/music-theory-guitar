@@ -14,10 +14,12 @@ body {
 
 a {
     color: white;
+    /* font-size: 1.5em; */
 }
 
 header {
-    background-color: #06A77D;
+    /* background-color: #06A77D; */
+    background-color: #035E47;
 }
 
 navbar-dark {
@@ -37,6 +39,10 @@ navbar-dark {
 .page-heading {
     text-align: center;
     color: black;
+}
+
+.lead {
+    color: #959CA3;
 }
 
  #fretboard-knowledge {
@@ -97,7 +103,8 @@ main {
 
 footer {
     clear: both;
-    background-color: #06A77D; 
+    /* background-color: #06A77D;  */
+    background-color: #035E47;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
