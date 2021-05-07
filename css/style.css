@@ -18,8 +18,8 @@ a {
 }
 
 header {
-    /* background-color: #06A77D; */
-    background-color: #035E47;
+    background-color: #06A77D;
+
 }
 
 navbar-dark {
@@ -103,8 +103,7 @@ main {
 
 footer {
     clear: both;
-    /* background-color: #06A77D;  */
-    background-color: #035E47;
+    background-color: #06A77D;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
